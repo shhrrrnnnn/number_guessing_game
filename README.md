@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Number Guessing Game 🎯
 
 A beginner-friendly number guessing game made with Python.
@@ -28,3 +29,7 @@ Made by Sharan Mathan Mattachotil
 
 
 
+=======
+# number_guessing_game
+A beginner Python number guessing game
+>>>>>>> 153244f045956250ee159622b58655660f54ac46
