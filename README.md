@@ -1,35 +1,54 @@
-<<<<<<< HEAD
-# Number Guessing Game 🎯
+Python Mini Projects
 
-A beginner-friendly number guessing game made with Python.
+This repository contains a collection of beginner-friendly Python projects that demonstrate basic programming concepts such as loops, conditionals, functions, and user interaction.
 
-The computer picks a number between 1 and 50, and the player keeps guessing until they get it right. After each round, the player can choose to play again.
+ Projects
+1. Number Guessing Game 
 
-## 💡 Features
-- Random number generation
-- Hints if your guess is too high or too low
-- Option to replay after each round
-- Clean and friendly user interaction
+The computer randomly selects a number.
 
-## 🛠️ How to Run
-Make sure you have Python installed.
+The player tries to guess the number with hints provided (too high / too low).
 
-Run the game with:
-```bash
-python number_guessing_game.py
----
-What i learned 
-- Python basic like loops, conditionals and user input
-- Using random module
-- Adding replay funtion
+Demonstrates use of random, loops, and conditional logic.
 
-I plan to work on this project and add more features as I strengthen my python skills.
+➡️ File: NumberGuessingGame/number_guess.py
 
-Made by Sharan Mathan Mattachotil
+2. Password Generator 
+
+Generates a secure password of user-defined length.
+
+Uses uppercase, lowercase, digits, and special characters.
+
+Demonstrates use of random and string libraries.
+
+➡️ File: PasswordGenerator/password_generator.py
+
+3. Calculator 
+
+A simple menu-driven calculator.
+
+Supports Addition, Subtraction, Multiplication, Division, Power, Modulus, and Square Root.
+
+Handles invalid inputs (like division by zero or negative square root).
+
+➡️ File: Calculator/calculator.py
+
+ How to Run
+
+Clone the repository:
+
+git clone https://github.com/shhrrrnnnn/number_guessing_game.git
+cd number_guessing_game
 
 
+Navigate to the project folder of your choice, for example:
 
-=======
-# number_guessing_game
-A beginner Python number guessing game
->>>>>>> 153244f045956250ee159622b58655660f54ac46
+cd Calculator
+python calculator.py
+
+
+Run the script! 🎉
+
+🙌 Contributions
+
+This repo is meant for practice and learning. Contributions, suggestions, and improvements are welcome!
